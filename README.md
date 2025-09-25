@@ -5,7 +5,7 @@ AI Chat + JSON Extractor
 This repository contains projects demonstrating conversation management and JSON schema-based information extraction using Groq API (OpenAI-compatible). It also includes a Streamlit web app for interactive chat.
 
 📂 Version 1: Without LangChain
-1️⃣ Features / Tasks
+Features / Tasks
 
 Task 1: Conversation Management & Summarization
 
