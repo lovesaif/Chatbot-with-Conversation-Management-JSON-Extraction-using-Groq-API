@@ -1,4 +1,4 @@
-# Chatbot-with-Conversation-Management-JSON-Extraction-using-Groq-API
+# Chatbot-with-Conversation-Management-&-JSON-Extraction-using-Groq-API
 
 AI Chat + JSON Extractor
 
